@@ -1,4 +1,5 @@
 # NoshFeast
+Final Project by Cathy Li, Hadjira Haya, and Shivani Konuguru
 
 ## Introduction
 
